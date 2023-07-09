@@ -1,0 +1,10 @@
+mqtt:
+  host: 'localhost'
+  port: 1883
+  username: 'username'
+  password: 'password'
+  topic: 'topic'
+wyze_dongle:
+  path: '/dev/hidraw0'
+logging:
+  level: 'DEBUG'

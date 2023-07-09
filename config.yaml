@@ -1,0 +1,10 @@
+mqtt:
+  host: '10.17.15.200'
+  port: 1883
+  username: 'ha_mqtt'
+  password: '8KjjAS0H1tjOGAExF4TGYRMg'
+  topic: 'pywyzesense2mqtt'
+wyze_dongle:
+  path: '/dev/hidraw0'
+logging:
+  level: 'DEBUG'
